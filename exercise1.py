@@ -24,8 +24,8 @@ for letter in fullName:
     else:
         encrypted += letter
 
-print("Original Name:", fullName)
-print("Encrypted Name:", encrypted)
+print("Original Name:-", fullName)
+print("Encrypted Name:-", encrypted)
 
 decrypted = ""
 
